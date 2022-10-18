@@ -2,9 +2,9 @@
 - 👀 I’m interested DSM 😃
 - I'm a research assistant in soil science, remote sensing and geographical information systems (GIS) in 
 - the Department of Soil Science and Plant Nutrition., My research is in the area of pedometrics—a subdiscipline of soil science that integrates soil science, 
-- GIS, remote sensing, spatial statistics, and machine-learning to better understand that spatial patterns of soil. 
-- I have been developing digital soil maps for presicion applications in agriculture systems and 
--  also interested in understanding how predictive digital soil models may be used to address climate change, environment and food security issues.
+GIS, remote sensing, spatial statistics, and machine-learning to better understand that spatial patterns of soil. 
+I have been developing digital soil maps for presicion applications in agriculture systems and 
+also interested in understanding how predictive digital soil models may be used to address climate change, environment and food security issues.
 - 🌱 I’m currently learning spatial predictive modelling.
 - 💞️ I’m looking to collaborate on predictive DSM studies on soils under climatic and vegetation conditions in different parts of the world.
 - 📫 How to reach me ...
